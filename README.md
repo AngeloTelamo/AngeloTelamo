@@ -1,8 +1,7 @@
-[![Masterhead](https://i.pinimg.com/originals/7d/2a/9f/7d2a9fca264faa93561f72b5fc885fec.gif)](https://AngeloTelamo.io)
+
 <h1 align="center">Hi 👋, I'm Angelo Nino S. Telamo</h1>
 <h3 align="center">A passionate to learn more in programming field</h3>
 
-<img align="right" alt="Coding" width="400" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Rotating_earth_%28large%29.gif/200px-Rotating_earth_%28large%29.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=angelo" alt="angelo" /></a> </p>
 
